@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.yufns.mviscaffold.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.yufns.mviscaffold.MyBundle
 
 class MyApplicationService {
 
